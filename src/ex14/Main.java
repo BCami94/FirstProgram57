@@ -11,8 +11,6 @@ public class Main {
                 tabel[i][j] = ' ';
             }
         }
-
-
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.print("Introduceti i: ");
