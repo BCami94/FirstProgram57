@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11e2a90-3696-45a2-8455-9a478d4ccad3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstProgram57.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringEx/StringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex13/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,26 +51,13 @@
       <recent name="Exercitii" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex12.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recapitulare.Main" />
+      <option name="MAIN_CLASS_NAME" value="ex14.Main" />
       <module name="FirstProgram57" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recapitulare.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dateTime.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dateTime.Main" />
-      <module name="FirstProgram57" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dateTime.*" />
+          <option name="PATTERN" value="ex14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex13.Main" />
+      <module name="FirstProgram57" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ex13.Main" />
         <item itemvalue="Application.ex12.Main" />
         <item itemvalue="Application.ex11.Main" />
         <item itemvalue="Application.ex10.Main" />
-        <item itemvalue="Application.dateTime.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
